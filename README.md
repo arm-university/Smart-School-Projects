@@ -1,7 +1,7 @@
 # Smart-School-Projects
 A collection of accessible and engaging projects for teachers and learners that utilise the more advanced features of Arduino in real-world contexts.
 
-## [Download here](https://github.com/arm-university/arduino-projects-for-schools/archive/refs/heads/main.zip)
+## [Download here](https://github.com/arm-university/Smart-School-Projects/archive/refs/heads/main.zip)
 
 ## Resource Aim
 To introduce learners to Physical Computing, the Internet of Things and Machine Learning through engaging hands-on, real-world projects using an Arduino and peripherals.
@@ -20,7 +20,7 @@ The course is a series of individual projects that build in complexity. The reso
 - Key stage 5 (Seniors) - ages 16-18
 
 ## License
-You are free to fork or clone this material. See [Licence.md](https://github.com/arm-university/arduino-projects-for-schools/blob/main/Licence) for the complete license.
+You are free to fork or clone this material. See [Licence.md](https://github.com/arm-university/Smart-School-Projects/blob/main/Licence) for the complete license.
 
 ## Inclusive Language Commitment
 Arm is committed to making the language we use inclusive, meaningful, and respectful. Our goal is to remove and replace non-inclusive language from our vocabulary to reflect our values and represent our global ecosystem.
