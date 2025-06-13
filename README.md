@@ -1,7 +1,10 @@
 # Smart-School-Projects
-A collection of accessible and engaging projects for teachers and learners that utilise the more advanced features of Arduino in real-world contexts.
 
-## [Download here](https://github.com/arm-university/Smart-School-Projects/archive/refs/heads/main.zip)
+## Important
+### To download the latest stable version, please click below instead of using the "Download ZIP" button.
+### [Click here to download](https://github.com/arm-university/Smart-School-Projects/releases/download/v2.0.0/Smart-School-Projects-main.zip)
+
+A collection of accessible and engaging projects for teachers and learners that utilise the more advanced features of Arduino in real-world contexts.
 
 ## Resource Aim
 To introduce learners to Physical Computing, the Internet of Things and Machine Learning through engaging hands-on, real-world projects using an Arduino and peripherals.
