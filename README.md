@@ -22,6 +22,22 @@ The course is a series of individual projects that build in complexity. The reso
 - Key stage 4 (High School) - ages 14-16
 - Key stage 5 (Seniors) - ages 16-18
 
+## Tools Used
+
+The lab exercises in this course have been developed and tested using the hardware listed below. 
+
+- Arduino MKR WAN 1300
+- Arduino MKR1000
+- Arduino MKR1010
+- MQ-135 Air quality sensor
+- GY-521 Accelerometer
+- Button
+- Breadboard
+- MKR low power GPS module
+- LCD screen with I2R connector
+- Actuator/Servo
+- 4 Red LEDs and one Green LED
+
 ## License
 You are free to fork or clone this material. See [Licence.md](https://github.com/arm-university/Smart-School-Projects/blob/main/Licence.md) for the complete license.
 
